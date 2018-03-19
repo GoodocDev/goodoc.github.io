@@ -1,37 +1,18 @@
-## 굿닥 접수 서비스 API
+## 개발자를 위한 굿닥 접수 서비스 API
 
-You can use the [editor on GitHub](https://github.com/GoodocDev/goodocdev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+굿닥 접수 서비스와 병원 차트 프로그램을 연동하기 위한 API를 제공합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### API 규격
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+굿닥 접수 서비스와의 연동을 위한 API 규격은 [다음](https://booking.goodoc.co.kr)의 링크를 확인하시기 바랍니다.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 접수 서비스 연동을 위한 파일
 
-- Bulleted
-- List
+굿닥 접수 서비스와의 연동을 위해 사용하는 파일을 제공합니다.
 
-1. Numbered
-2. List
+### 파일 리스트
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoodocDev/goodocdev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2018. X. X 일자
