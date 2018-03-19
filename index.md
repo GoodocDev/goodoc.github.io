@@ -1,6 +1,3 @@
-@font-face {
-  font-family: "돋움";
-  }
 ## 개발자를 위한 굿닥 접수 서비스 API
 
 
