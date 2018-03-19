@@ -29,4 +29,4 @@
 
 굿닥 홈페이지 [goodoc.io](www.goodoc.io) <br>
 굿닥 접수 서비스 홈페이지 [booking.goodoc.co.kr](booking.goodoc.co.kr)
-{: style="text-align: center;"}
+{: style="text-align: right;"}
